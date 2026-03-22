@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+pillow
+googletrans==4.0.0-rc1
+SpeechRecognition
+streamlit-mic-recorder
+gTTS
+pydub
+gdown
